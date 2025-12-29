@@ -20,7 +20,7 @@ This is ideal for creators, videographers, and editors who want a fast way to co
 ## 🗂 Example Folder Structure
 
 ### Before running the script:
-Desk Reels/
+Desk Reels/ <br>
 ├── Shoot_01/
 │ ├── A001.mov
 │ └── A002.mov
