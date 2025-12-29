@@ -1,4 +1,4 @@
-# Desk Reels Backup Script 🎬
+# MOV Backup Script 🎬
 
 A simple Python script that automatically collects and backs up all `.mov` files from subfolders into a single backup directory — while preserving file metadata and avoiding overwrites.
 
@@ -20,7 +20,7 @@ This is ideal for creators, videographers, and editors who want a fast way to co
 ## 🗂 Example Folder Structure
 
 ### Before running the script:
-Desk Reels/ <br>
+Root_Folder/ <br>
 ├── Shoot_01/ <br>
 │ ├── A001.mov <br>
 │ └── A002.mov <br>
@@ -31,7 +31,7 @@ Desk Reels/ <br>
 
 ### After running the script:
 
-Desk Reels/<br>
+Root_Folder/<br>
 ├── for_backup/<br>
 │ ├── A001.mov<br>
 │ ├── A001_1.mov<br>
