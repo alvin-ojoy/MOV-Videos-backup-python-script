@@ -21,19 +21,19 @@ This is ideal for creators, videographers, and editors who want a fast way to co
 
 ### Before running the script:
 Desk Reels/ <br>
-├── Shoot_01/
-│ ├── A001.mov
-│ └── A002.mov
-├── Shoot_02/
-│ ├── A001.mov
+├── Shoot_01/ <br>
+│ ├── A001.mov <br>
+│ └── A002.mov <br>
+├── Shoot_02/ <br>
+│ ├── A001.mov <br>
 │ └── B001.mov
 
 
 ### After running the script:
 
-Desk Reels/
-├── for_backup/
-│ ├── A001.mov
-│ ├── A001_1.mov
-│ ├── A002.mov
-│ └── B001.mov
+Desk Reels/<br>
+├── for_backup/<br>
+│ ├── A001.mov<br>
+│ ├── A001_1.mov<br>
+│ ├── A002.mov<br>
+│ └── B001.mov<br>
